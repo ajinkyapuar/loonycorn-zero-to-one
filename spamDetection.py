@@ -1,7 +1,7 @@
 ############################################################################################################################################################
 # Supervised Learning
 
-# Spam Classifier (Naive Bayes Classifier)
+# TODO: Spam Classifier (Naive Bayes Classifier)
 
 # Training the model
 # 1. Calculate for each word in each email the number of times the word appears in ham or spam email. Cspam(T) & Cham(T)

@@ -1,7 +1,7 @@
 ############################################################################################################################################################
 # Supervised Learning
 
-# Newspaper Article Classifier (K-Nearest Neighbour Classifier)
+# TODO: Newspaper Article Classifier (K-Nearest Neighbour Classifier)
 
 # 1. Create a corpus of news articles which are already classified into Tech & Non-Tech.
 #     a. Download Tech news articles and label them as Tech.
