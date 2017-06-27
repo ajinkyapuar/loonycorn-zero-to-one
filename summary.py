@@ -7,7 +7,7 @@ from heapq import nlargest
 import urllib2
 from bs4 import BeautifulSoup
 
-
+# TODO: Fixes Required
 class FrequencySummarizer:
     def __init__(self, min_cut=0.1, max_cut=0.9):
         self._min_cut = min_cut
